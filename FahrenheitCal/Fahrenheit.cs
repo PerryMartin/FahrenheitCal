@@ -1,6 +1,6 @@
 ﻿/*
  * Created by: Perry Martin
- * Created on: 26-102015
+ * Created on: 26-10-2015
  * Created for: ICS3U
  * Daily Assignment – Unit#4-01
  * This program displays celsius converting to fahrenhait
